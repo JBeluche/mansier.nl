@@ -1,0 +1,25 @@
+@mixin clearfix {
+    &::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+@mixin center-vertically{
+    position: relative;
+    top: 50%;
+    transform: perspective(1px) translateY(-50%);
+}
+
+@mixin center-horizontally{
+    position: relative;
+    left: 50%;
+    transform: perspective(1px) translateX(-50%);
+}
+
+@mixin absCenter{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

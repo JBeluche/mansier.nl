@@ -1,0 +1,172 @@
+.header__feesten {
+  background: none;
+  height: 8rem;
+}
+
+.feesten-main {
+  background-image: url(../img/blue-planks-min.jpg);
+  background-size: cover;
+  background-position: top;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: $main-font-color;
+}
+
+.feesten-banner {
+  width: 115rem;
+  height: 14rem;
+  z-index: 10;
+  background-image: url(../img/banner.png);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+}
+
+.intro-container {
+  width: 70rem;
+  text-align: center;
+  background-color: rgb($color-secondary-brown, 0.9);
+  margin-top: -1rem;
+  padding: 5rem 3rem;
+  font-size: 2rem;
+}
+
+.party-container {
+  background-color: $color-secondary-brown;
+  display: flex;
+  width: 160rem;
+  margin: 10rem 0;
+  justify-content: center;
+  &__right {
+    width: 50%;
+    background-size: cover;
+    background-position: center;
+  }
+  .wedding-image {
+    background-image: url(../img/wedding-flowers-min.jpg);
+  }
+  .reception-image {
+    background-image: url(../img/reception-min.jpg);
+  }
+  &__left {
+    width: 50%;
+    padding: 10rem 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.4rem;
+
+    height: 70rem;
+
+    & svg {
+      margin: 4rem;
+    }
+  }
+}
+
+.party-title {
+  font-size: 4.6rem;
+  margin-bottom: 1rem;
+  margin-top: -5rem;
+}
+
+.decoration-last-party {
+  height: 70rem;
+  & svg {
+    margin: 0;
+  }
+}
+
+.party-container-without-img {
+  justify-content: space-between;
+}
+
+@media only screen and (max-width: 800px) {
+  .feesten-banner {
+    background-image: none;
+    background-color: $color-primary-red;
+    width: 100%;
+    text-align: center;
+    & h2 {
+      font-size: 3.4rem;
+    }
+  }
+  .intro-container {
+    width: 100% !important;
+  }
+  .intro-container p {
+    font-size: 1.8rem;
+  }
+}
+
+@media only screen and (max-width: 1650px) {
+  .party-container {
+    width: 140rem;
+  }
+}
+@media only screen and (max-width: 1450px) {
+  .party-container {
+    width: 120rem;
+  }
+  .party-container__left svg {
+    margin: 3rem;
+  }
+}
+@media only screen and (max-width: 1250px) {
+  .party-container {
+    width: 100rem;
+  }
+  .party-container__left svg {
+    margin: 2rem;
+    margin-bottom: 3rem;
+  }
+}
+
+@media only screen and (max-width: 1050px) {
+  .party-container {
+    flex-direction: column;
+    width: 85%;
+
+    &__right {
+      //
+      width: 100%;
+      height: 30rem;
+    }
+    &__left {
+      width: 100%;
+    }
+    .party-title{
+      margin:0;
+    }
+  }
+  .party-container-reverse-column {
+    flex-direction: column-reverse;
+  }
+  .party-container__left{
+    justify-content: space-between;
+  }
+  .party-container svg {
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .party-title {
+    font-size: 3.5rem;
+    margin-bottom: 2rem;
+  }
+  .party-text {
+    font-size: 1.2rem;
+  }
+  .party-container {
+    width: 95%;
+  }
+  .party-container__left{
+    padding: 10rem 2rem;
+  }
+}

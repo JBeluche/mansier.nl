@@ -1,0 +1,29 @@
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+
+html {
+    //This defines what one rem is!
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+    input.wpcf7-form-control.wpcf7-submit {
+        -webkit-appearance: none;
+        -moz-appearance:    none;
+        appearance:         none;
+     }
+}
+
+body {    
+    box-sizing: border-box;
+
+    a{
+        color: $main-font-color;
+        text-decoration: none;
+    }
+}
