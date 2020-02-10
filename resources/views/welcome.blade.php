@@ -41,8 +41,8 @@
                         <li>11:00 - 23:00</li>
                         <li>11:00 - 23:00</li>
                         <li>11:00 - 23:00</li>
-                        <li>11:00 - 23:00</li>
-                        <li>11:00 - 23:00</li>
+                        <li>11:00 - 01:00</li>
+                        <li>11:00 - 01:00</li>
                         <li>11:00 - 23:00</li>
                     </ul>
                 </div>
@@ -194,11 +194,8 @@
                     </div>
                 </div>--}}
 
-                <div class="col-1-of-2 event-column-break">
+                <div class="event event-column-break">
                     <img src="img/events-list-29-10-2019.jpeg" alt="Photo 3" class="events__coming-event--image events__event--image-1">
-                </div>
-                <div class="col-1-of-2 event-column-break">
-                    <img src="img/events-list-29-10-2019-2.jpeg" alt="Photo 3" class="events__coming-event--image events__event--image-1">
                 </div>
                 
             </div>

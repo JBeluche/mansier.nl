@@ -63,7 +63,7 @@
                         <p class="party-text robotoregular">
                                 Ook voor uw receptie kunt u natuurlijk bij ons terecht. Zalencentrum Mansier biedt u de volgende standaard mogelijkheden:<br><br>
     
-                                Receptie 11/2 uur. Prijs € 12.00 p.p<br>
+                                Receptie 1&#189; uur. Prijs € 12.00 p.p<br>
                                 - Koffie met gebak
                                 - 3 x hapjes
                                 - Consumpties<br><br>
@@ -93,22 +93,15 @@
                         verzorgt door Mansier</h2>
                     @include('svg.party-decoration')
                     <p class="party-text robotoregular">
-                        Zalencentrum Mansier kan, door hun jarenlange ervaring, uw bruiloft tot een onvergetelijk feest maken. 
-                        Doordat onze zaal op te delen is, creëren we gezelligheid aangepast voor uw gezelschap,
-                        of deze nou klein of groot is.<br><br>
+                        Het is mogelijk om onze zalen voor anderen soorten feesten in te huren.<br><br>
+
+                        We kunnen onder anderen, oud Hollandse spellen, Las Vegas avond en anderen thema feesten voor u organiseren.<br><br>
+                        Heeft u zelf een idee voor een thema feest? Wij maken alles bespreekbaar!<br><br>
+                        Naast onze zalen, is het ook een optie, om ons gezellig café te huren!<br><br>
+                        Neem, geheel vrijblijvend, contact met ons op voor de verschillende mogelijkheden.<br><br>
                         
-                        Ons standaard bruiloft- arrangement bestaat uit:	<br><br>
-                        
-                        - Koffie met gebak<br>
-                        - 3 warme en 3 koude hapjes<br>
-                        - Consumpties<br>
-                        
-                        Voor een All-In prijs van slechts € 23.00 p/p.<br><br>
-                        
-                        Maar misschien heeft u zelf een idee over hoe uw receptie eruit moet zien, maak het kenbaar aan ons en dan 
-                        gaan we samen kijken wat de mogelijkheden zijn.<br><br>
-                        
-                        Neem, geheel vrijblijvend, contact met ons op voor de verschillende mogelijkheden.
+                        Wij kunnen ook uitvaard verzorgen. <br><br>
+                        Bel ons voor meer informatie: 0529-471456
                     </p>
                 </div>
 

@@ -19,13 +19,8 @@
     <div class="intro-container robotoregular">
         <p>
                 Voor elk feest of evenement op locatie kan Mansier de catering voor u verzorgen.<br>
-                Of het nu gaat om grote of kleine groepen, jong of oud, binnen of buiten, wij<br>
-                hebben de juiste apparatuur om er een succes van te maken.<br><br>
                 
-                U kunt bij ons onder meer een bierwagen of verschillende biertaps huren.<br>
-                We verhuren daarnaast natuurlijk alle denkbare horeca-artikelen.<br><br>
-                
-                Daarnaast verzorgen we ook overheerlijke buffetten.<br>
+                Wij verzorgen overheerlijke bufetten.<br>
                 Kijk hieronder voor onze buffeten en prijsen.<br><br>
                 
                 Neem vrijblijvend contact met ons op en vraag naar de mogelijkheden.<br><br>

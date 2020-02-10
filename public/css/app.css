@@ -377,6 +377,9 @@ body a {
   color: #F0DEAB;
   transform: translateX(1rem);
 }
+.navigation-popup__nav a {
+  pointer-events: none;
+}
 .navigation-popup__checkbox:checked ~ .navigation-popup__background {
   transform: scale(80);
 }
@@ -387,6 +390,7 @@ body a {
 }
 .navigation-popup__checkbox:checked ~ .navigation-popup__nav a {
   cursor: pointer;
+  pointer-events: auto;
 }
 .navigation-popup__icon {
   position: relative;
@@ -621,6 +625,7 @@ body a {
 @media only screen and (max-width: 1200px) {
   .header__navigation--item {
     display: none;
+    pointer-events: none;
   }
 }
 
@@ -1001,6 +1006,10 @@ body a {
   background-position: top;
   background-size: 110%;
 }
+.events__wrapper {
+  width: 100%;
+  display: grid;
+}
 .events__title--container {
   padding-top: 50rem;
   position: relative;
@@ -1058,7 +1067,7 @@ body a {
 }
 .events__coming-event {
   max-width: 160rem;
-  padding: 10rem 2rem;
+  padding: 20rem 2rem;
 }
 .events__coming-event--no-event-header {
   text-align: center;
@@ -1083,6 +1092,7 @@ body a {
   padding: 2.5rem;
   padding-bottom: 5rem;
   background-color: #E8DED3;
+  display: block;
   width: 100%;
 }
 .events__coming-event--image-1 {
@@ -1654,7 +1664,7 @@ body a {
 
 .buffet-container {
   width: 80%;
-  padding: 10rem 0;
+  padding: 20rem 0;
   justify-items: center;
   display: grid;
   grid-template-rows: repeat(auto-fit, minmax(25rem, 1fr), 1fr);

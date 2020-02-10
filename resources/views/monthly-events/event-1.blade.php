@@ -14,7 +14,7 @@
  
     <p class="buffet__price">
         Elke maandag v.a. <br>
-        20.00 uur                      
+        19.00 uur                      
         </p>
 </div>
 <div class="buffet__svg-left">

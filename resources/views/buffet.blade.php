@@ -14,12 +14,12 @@
 <main class="buffet-main">
 
     <div class="feesten-banner croisantone">
-        <h2>Buffetten van Mansier</h2>
+        <h2>Bufetten van Mansier</h2>
     </div>
     <div class="intro-container robotoregular">
-        <p>We verzorgen heerlijke, uitgebreide buffetten, waarin vooral de kwaliteit- prijsverhouding voorop staat.
+        <p>We verzorgen heerlijke, uitgebreide bufetten, waarin vooral de kwaliteit- prijsverhouding voorop staat.
             <br><br>
-            Heerlijke buffetten voor personeelsverenigingen, buurtverenigingen, sportverenigingen, familie- of
+            Heerlijke bufetten voor personeelsverenigingen, buurtverenigingen, sportverenigingen, familie- of
             vriendengroepen. <br><br>
             Kijk hieronder naar onze buffeten. U zult zien dat er vast een buffet
             voor u bij zit. <br><br>

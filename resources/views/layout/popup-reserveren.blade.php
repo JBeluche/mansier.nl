@@ -31,7 +31,7 @@
                 <br>
                 <hr align: center;>
                 <br>
-                <h3 class="popup__second_header croisantone">Neem aslublieft contact met ons op via mobiel of e-mail:</h3>
+                <h3 class="popup__second_header croisantone">Neem alstublieft contact met ons op via mobiel of e-mail:</h3>
                 <br>
                 <hr>
                 <div class="popup__list">

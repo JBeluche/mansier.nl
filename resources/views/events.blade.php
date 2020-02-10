@@ -90,10 +90,14 @@
 
     {{--NO EVENTS TEXT--}}
     <div class="row events__coming-event full-row">
-        <div class="col-2-of-2 disable-margin-right">
+      {{--  <div class="col-2-of-2 disable-margin-right">
             <h1 class="events__coming-event--no-event-header croisantone">
                 Helaas zijn er geen aankomende evenementen bekend!
             </h1>
+        </div>--}}
+
+        <div class="event event-column-break">
+            <img src="img/events-list-29-10-2019.jpeg" alt="Photo 3" class="events__coming-event--image events__event--image-1">
         </div>
         {{--
         <div class="col-1-of-2 event-column-break">

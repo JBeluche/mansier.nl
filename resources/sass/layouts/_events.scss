@@ -5,6 +5,11 @@
   background-position: top;
   background-size: 110%;
 
+  &__wrapper{
+    width: 100%;
+    display: grid;
+  }
+
   &__title {
     &--container {
       padding-top: 50rem;
@@ -66,7 +71,7 @@
   //HERE STARTS THE NORMAL EVENTS
   &__coming-event {
     max-width: 160rem;
-    padding: 10rem 2rem;
+    padding: 20rem 2rem;
 
     &--no-event-header {
       text-align: center;
@@ -92,7 +97,7 @@
       padding: 2.5rem;
       padding-bottom: 5rem;
       background-color: $polariod-paper;
-      
+      display: block;
       width: 100%;
 
       &-1 {

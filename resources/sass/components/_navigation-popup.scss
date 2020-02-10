@@ -116,6 +116,9 @@
     }
 
     }
+    &__nav a{
+        pointer-events: none;
+        }
 
     //Functionality
     &__checkbox:checked ~ &__background{
@@ -130,6 +133,7 @@
     }
     &__checkbox:checked ~ &__nav a {
         cursor: pointer;
+        pointer-events: auto;
     }
 
     //ICON

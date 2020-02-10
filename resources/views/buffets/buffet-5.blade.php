@@ -21,7 +21,7 @@
         </p>
         <p class="buffet__price">
             Prijs all-in  p.p.<br>
-                € 35.00                        
+                € 37.50                        
             </p>
     </div>
     <div class="buffet__svg-right">

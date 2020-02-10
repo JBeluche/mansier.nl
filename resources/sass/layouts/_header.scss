@@ -59,6 +59,7 @@
     &__navigation{
       &--item{
         display: none;
+        pointer-events: none
       }
     }
   }

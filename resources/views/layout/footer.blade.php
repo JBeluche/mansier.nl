@@ -45,8 +45,6 @@
                 <div class="anomaly"><br>&nbsp;<br>&nbsp;</div>
                 <div class="footer__red-section--social--icon-wrap">
                     <a target="_blank" href="https://www.facebook.com/cafemansier/">@include('svg.facebook-icon')</a>
-
-                    <a target="_blank" href="https://www.facebook.com/cafemansier/">@include('svg.instagram-icon')</a>
                 </div>
                 <hr class="footer__red-section--social-line">
 
